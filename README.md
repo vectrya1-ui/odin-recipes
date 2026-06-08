@@ -1,1 +1,2 @@
 # odin-recipes
+The aim of this project is to understand the importance of efficient file and directory organization and to practice the use of various, and common, HTML elements by creating a website of recipes. 
